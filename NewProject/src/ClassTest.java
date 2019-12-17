@@ -5,7 +5,7 @@ public class ClassTest {
 		System.out.println("Hello git");
 		System.out.println("WElcome to git");
 		System.out.println("new branch created");
-		System.out.println("WElcome to github");
+		System.out.println("WElcome to github version control");
 
 	}
 }
